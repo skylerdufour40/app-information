@@ -1,0 +1,10 @@
+{
+  "name": "Paste here",
+  "short_name": "Paste here",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3efe6",
+  "theme_color": "#f3efe6",
+  "description": "App information and installation details.",
+  "icons": []
+}
